@@ -1,6 +1,5 @@
-## 南惊希露
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 南惊希露
+以文科生的视角看科学技术
 
 ### Markdown
 
